@@ -1,51 +1,18 @@
->>> type(4.5)
-<class 'float'>
+console.log('zzz')
 
->>> type(5.8)
-<class 'float'>
+console.log('zzz')console.log('zzz')
 
->>> type(2342423424.3)
-<class 'float'>
 
->>> type(4.0)
-<class 'float'>
+console.log('zzz')
 
->>> type(0.0)
-<class 'float'>
+console.log('zzz')console.log('zzz')
+console.log('zzz')
 
->>> type(-23.5)
-<class 'float'>
->>> type(4.5)
-<class 'float'>
+console.log('zzz')console.log('zzz')
 
->>> type(5.8)
-<class 'float'>
+console.log('zzz')
 
->>> type(2342423424.3)
-<class 'float'>
+console.log('zzz')console.log('zzz')
+console.log('zzz')
 
->>> type(4.0)
-<class 'float'>
-
->>> type(0.0)
-<class 'float'>
-
->>> type(-23.5)
-<class 'float'>
->>> type(4.5)
-<class 'float'>
-
->>> type(5.8)
-<class 'float'>
-
->>> type(2342423424.3)
-<class 'float'>
-
->>> type(4.0)
-<class 'float'>
-
->>> type(0.0)
-<class 'float'>
-
->>> type(-23.5)
-<class 'float'>
+console.log('zzz')console.log('zzz')
